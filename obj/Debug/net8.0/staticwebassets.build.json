@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "07fjuETOoRQJLq/8pVnq7rhPTsfuZAwFnZdtIqsRBks=",
+  "Source": "s3localstackdotnet",
+  "BasePath": "_content/s3localstackdotnet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

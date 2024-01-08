@@ -1,0 +1,6 @@
+@s3localstackdotnet_HostAddress = http://localhost:5010
+
+GET {{s3localstackdotnet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/s3localstackdotnet.props" />
+</Project>
