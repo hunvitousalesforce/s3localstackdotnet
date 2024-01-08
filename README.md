@@ -1,3 +1,4 @@
+# Localstack
 This is an show case of how to use localstack s3 for local development with asp.net core web api in .net 8
 
 first install localstack and run localstack using pip
@@ -28,6 +29,8 @@ region: us-east-1 # recommended
 output: json
 
 all done from s3 configuration on localstack side.
+
+# .Net core web api
 
 for dotnet side. I recommend creating a new dotnet web api project (you should consider using minimal api for testing)
 
